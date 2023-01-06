@@ -1,1 +1,1 @@
-# short-text-classiication
+#short-text-classification of bank transactions
